@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * This class implements a fixed threaded pool to calculate the Euler's number
+ * This class implements a fixed thread pool to calculate the Euler's number
  */
 public class FixedThreads {
     public static void main(String[] args) {
