@@ -1,9 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.out
-CachedThreads.class
-FixedThreads.class
-Task.class
-Utils.class
-WorkingStealingThreads.class
